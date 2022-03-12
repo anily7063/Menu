@@ -1,0 +1,242 @@
+.menu{
+    background-color: gainsboro;
+    height: 200px;
+    width: 100%;
+}
+.btn{
+   
+  margin:1%;
+    background-color: white;
+    height: 30%;
+    width: 23%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+}
+
+
+/* 
+.btn1{
+  
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.btn2{
+   
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.btn3{
+    
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.btn4{
+   
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.btn5{
+    
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.btn6{
+   
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.btn7{
+   
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.btn8{
+   
+    background-color: white;
+    height: 10%;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+} */
+
+
+
+.btn1  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -140px;
+    margin-top: 18px;
+    color: blue;
+}
+
+p {
+    margin-right: 10px;
+    margin-top: -22px;
+    font-weight: bold;
+    font-size: initial;
+}
+
+.btn2  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -140px;
+    margin-top: 18px;
+    color:orangered
+}
+
+.btn3  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -160px;
+    margin-top: 18px;
+    color:purple;
+    transform: rotate(180deg);
+
+}
+
+.btn4  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -160px;
+    margin-top: 18px;
+    color:#4169E1
+}
+.btn5  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -140px;
+    margin-top: 18px;
+    color:#4169E1
+}
+.btn6  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -140px;
+    margin-top: 18px;
+    color:green
+}
+.btn7  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -140px;
+    margin-top: 18px;
+    color:#F08080
+}
+.btn8  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+    margin-right: 12px;
+    margin-left: -140px;
+    margin-top: 18px;
+    color:#8B4513
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px){
+    .menu{
+        background-color: gainsboro;
+        height: 100%;
+        width: 100%;
+    }
+     
+    .btn{
+   
+        margin:1%;
+          background-color: white;
+          height: 30%;
+          width: 100%;
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          box-sizing: border-box;
+          float: left;
+      }
+
+
+
+
+}
